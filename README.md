@@ -1,3 +1,3 @@
-# project-1
+# apnacollege
 This is my first Git Repository
 Author - Niraj Ukande
